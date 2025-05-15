@@ -6,9 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=humam-ashaq&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight" height="160"/>
 
-  <!-- Spasi -->
-  <br><br>
-
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight"/>
 
