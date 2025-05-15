@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-![humam-ashaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humam-ashaq&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+
+  <!-- Stats & Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=humam-ashaq&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight" height="200"/>
+
+  <!-- Spasi -->
+  <br><br>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight)](https://git.io/streak-stats"/>
+
+</div>
 
 <!--
 **humam-ashaq/humam-ashaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
