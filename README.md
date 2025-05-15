@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight" height="160"/>
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight" height="160"/>
 
 </div>
 
