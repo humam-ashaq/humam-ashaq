@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ![humam-ashaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humam-ashaq&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
