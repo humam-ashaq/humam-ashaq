@@ -10,7 +10,7 @@
   <br><br>
 
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight"/>
 
 </div>
 
