@@ -1,13 +1,5 @@
 ## Hi hub 👋, I'm Humam, an ordinary Informatics Engineering Student 🎓
 
-<div align="center">
-  <!-- Stats & Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=humam-ashaq&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humam-ashaq&layout=compact&theme=tokyonight" height="160"/>
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=humam-ashaq&theme=tokyonight" height="160"/>
-</div>
-
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
